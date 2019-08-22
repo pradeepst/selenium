@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="376086" started-at="2019-02-08T02:45:34Z" finished-at="2019-02-08T02:51:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="376086" started-at="2019-02-08T02:45:34Z" finished-at="2019-02-08T02:51:50Z">
+      <class name="Project.assignment">
+        <test-method status="PASS" signature="TestSetup()[pri:0, instance:Project.assignment@5ed828d]" name="TestSetup" is-config="true" duration-ms="19655" started-at="2019-02-08T02:45:34Z" finished-at="2019-02-08T02:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Project.assignment@5ed828d]" name="testcase1" duration-ms="79077" started-at="2019-02-08T02:45:54Z" finished-at="2019-02-08T02:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Project.assignment@5ed828d]" name="testcase2" duration-ms="37674" started-at="2019-02-08T02:47:13Z" finished-at="2019-02-08T02:47:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Project.assignment@5ed828d]" name="testcase3" duration-ms="49845" started-at="2019-02-08T02:47:51Z" finished-at="2019-02-08T02:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:Project.assignment@5ed828d]" name="testcase4" duration-ms="67867" started-at="2019-02-08T02:48:41Z" finished-at="2019-02-08T02:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:Project.assignment@5ed828d]" name="testcase5" duration-ms="121942" started-at="2019-02-08T02:49:49Z" finished-at="2019-02-08T02:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- Project.assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

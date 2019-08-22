@@ -1,0 +1,25 @@
+package Project;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class cancelobjects {
+
+	
+
+		//Constructor
+		
+		public cancelobjects (WebDriver driver) {
+	        //With page factory- initialize below elements
+		
+		PageFactory.initElements(driver, this);
+		}
+
+@FindBy(className= "paypal-checkout-close")
+public WebElement cancel;
+
+
+
+}
